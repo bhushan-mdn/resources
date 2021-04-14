@@ -31,7 +31,7 @@ A collection of open-source resources
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
-# For the Interviwee
+## For the Interviwee
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
