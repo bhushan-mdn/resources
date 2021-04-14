@@ -1,46 +1,51 @@
 # Resources
 A directory of collections
 
-# Awesome
-https://github.com/sindresorhus/awesome
-https://github.com/binhnguyennus/awesome-scalability
-https://github.com/vinta/awesome-python
-https://github.com/avelino/awesome-go
-https://github.com/rust-unofficial/awesome-rust
+## Awesome
+[Awesome](https://github.com/sindresorhus/awesome)
+[Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+[Awesome Python](https://github.com/vinta/awesome-python)
+[Awesome Go](https://github.com/avelino/awesome-go)
+[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
-# The book of secret knowledge
-https://github.com/trimstray/the-book-of-secret-knowledge
+## Free Programming Books
+[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-# The Art of Command Line
-https://github.com/jlevy/the-art-of-command-line
+## OSSU
+[OSSU Computer Science](https://github.com/ossu/computer-science)
+[OSSU Data Science](https://github.com/ossu/data-science)
+[OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
 
-# Build your own X
-https://github.com/danistefanovic/build-your-own-x
+## The book of secret knowledge
+[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-# Public APIs
-https://github.com/public-apis/public-apis
+## The Art of Command Line
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-# System Design Primer
-https://github.com/donnemartin/system-design-primer
+## Build your own X
+[Build your own X](https://github.com/danistefanovic/build-your-own-x)
 
-# System Design Interview
-https://github.com/checkcheckzz/system-design-interview
+## Public APIs
+[Public APIs](https://github.com/public-apis/public-apis)
 
-# Developer Roadmap
-https://github.com/kamranahmedse/developer-roadmap
+## System Design Primer
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-# Coding Interview University
-https://github.com/jwasham/coding-interview-university
+## System Design Interview
+[System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 
-# Free Programming Books
-https://github.com/EbookFoundation/free-programming-books
+## Coding Interview University
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-# Go Developer Roadmap
-https://github.com/Alikhll/golang-developer-roadmap
+## Developer Roadmap
+[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-# Awesome Open Source
-https://awesomeopensource.com
-https://awesomeopensource.com/projects
+## Go Developer Roadmap
+[Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
-# OSSU Computer Science
-https://github.com/ossu/computer-science
+## Awesome Open Source
+[Awesome Open Source](https://awesomeopensource.com)
+[Awesome Open Source Projects](https://awesomeopensource.com/projects)
+
+## 996.ICU
+[996.ICU](https://github.com/996icu/996.ICU)
