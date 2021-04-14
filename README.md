@@ -23,8 +23,8 @@ A collection of resources
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Project Ideas
-[Build your own X](https://github.com/danistefanovic/build-your-own-x)
-[App Ideas Collection](https://github.com/florinpop17/app-ideas)
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
 ## Public APIs
 [Public APIs](https://github.com/public-apis/public-apis)
@@ -35,12 +35,12 @@ A collection of resources
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 
 ## Roadmaps
-[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-[Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## Awesome Open Source
-[Awesome Open Source](https://awesomeopensource.com)
-[Awesome Open Source Projects](https://awesomeopensource.com/projects)
+- [Awesome Open Source](https://awesomeopensource.com)
+- [Awesome Open Source Projects](https://awesomeopensource.com/projects)
 
 ## 996.ICU
 [996.ICU](https://github.com/996icu/996.ICU)
