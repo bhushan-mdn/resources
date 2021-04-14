@@ -3,9 +3,16 @@ A collection of open-source resources
 
 ## Awesome
 - [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Awesome First PR](https://github.com/MunGell/awesome-for-beginners)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 ## Books
@@ -24,21 +31,27 @@ A collection of open-source resources
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
-## Public APIs
-[Public APIs](https://github.com/public-apis/public-apis)
-
 # For the Interviwee
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Interviews](https://github.com/kdn251/interviews)
+- Algorithms
+  - [Javascript](https://github.com/trekhleb/javascript-algorithms)
+  - [Python](https://github.com/TheAlgorithms/Python)
+  - [Java](https://github.com/TheAlgorithms/Java)
 
 ## Roadmaps
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## Awesome Open Source
 - [Awesome Open Source](https://awesomeopensource.com)
 - [Awesome Open Source Projects](https://awesomeopensource.com/projects)
 
-## 996.ICU
-[996.ICU](https://github.com/996icu/996.ICU)
+## Misc
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com)
+- [Best websites to visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
