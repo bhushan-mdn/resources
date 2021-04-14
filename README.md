@@ -16,10 +16,8 @@ A collection of open-source resources
 - [OSSU Data Science](https://github.com/ossu/data-science)
 - [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
 
-## The book of secret knowledge
+## Sysad
 [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
-## The Art of Command Line
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Project Ideas
