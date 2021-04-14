@@ -17,8 +17,8 @@ A collection of open-source resources
 - [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
 
 ## Sysad
-[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Project Ideas
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
