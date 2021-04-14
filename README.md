@@ -31,13 +31,13 @@ A collection of open-source resources
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
-## For the Interviwee
+## For the Interviewee
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Interviews](https://github.com/kdn251/interviews)
-- Algorithms
+- Algorithms implemented in
   - [Javascript](https://github.com/trekhleb/javascript-algorithms)
   - [Python](https://github.com/TheAlgorithms/Python)
   - [Java](https://github.com/TheAlgorithms/Java)
@@ -49,6 +49,9 @@ A collection of open-source resources
 ## Awesome Open Source
 - [Awesome Open Source](https://awesomeopensource.com)
 - [Awesome Open Source Projects](https://awesomeopensource.com/projects)
+
+## Freelancing
+- [Freelancing for Developers](https://freelancingfordevs.com/)
 
 ## Misc
 - [Public APIs](https://github.com/public-apis/public-apis)
