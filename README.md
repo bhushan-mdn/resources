@@ -3,17 +3,17 @@ A collection of open-source resources
 
 ## Awesome
 - [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [Awesome Go](https://github.com/avelino/awesome-go)
-- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
-- [Awesome First PR](https://github.com/MunGell/awesome-for-beginners)
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+    - [Python](https://github.com/vinta/awesome-python)
+    - [Go](https://github.com/avelino/awesome-go)
+    - [Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+    - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+    - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+    - [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+    - [Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+    - [Courses](https://github.com/prakhar1989/awesome-courses)
+    - [Scalability](https://github.com/binhnguyennus/awesome-scalability)
+    - [First PR](https://github.com/MunGell/awesome-for-beginners)
+    - [Rust](https://github.com/rust-unofficial/awesome-rust)
 
 ## Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
