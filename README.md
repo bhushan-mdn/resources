@@ -66,3 +66,4 @@ A collection of open-source resources
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [Best websites to visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Awesome Open Source Projects](https://awesomeopensource.com/projects)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
