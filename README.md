@@ -1,5 +1,5 @@
 # Resources
-A collection of resources
+A collection of open-source resources
 
 ## Awesome
 - [Awesome](https://github.com/sindresorhus/awesome)
