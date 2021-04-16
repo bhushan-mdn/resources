@@ -3,10 +3,10 @@ title: resources
 email: nagbhushan1999@gmail.com
 baseurl: ""
 
-# remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 title: resources
 description: A collection of open-source resources
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
