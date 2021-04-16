@@ -2,11 +2,11 @@ main:
   - title: "Home"
     url: /
   - title: "Curl"
-    url: /curl
+    url: /resources/curl
   - title: "Help"
-    url: /help_pages
+    url: /resources/help_pages
   - title: "About"
-    url: /about
+    url: /resources/about
   # - title: "Categories"
   #   url: /categories
   # - title: "Tags"
