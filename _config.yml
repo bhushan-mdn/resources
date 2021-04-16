@@ -1,3 +1,21 @@
-theme: jekyll-theme-midnight
+# remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 title: resources
 description: A collection of open-source resources
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      # comments: true
+      # share: true
+      # related: true

@@ -1,16 +1,12 @@
+---
+layout: single
+title: ""
+toc: true
+toc_label: "Contents"
+# toc_icon: "cog"
+---
 # Resources
 A collection of open-source resources
-
-**Contents**
-- [Awesome lists](#awesome-lists)
-- [Books](#books)
-- [OSSU](#ossu)
-- [Sysadmin](#sysadmin)
-- [Project Ideas](#project-ideas)
-- [Interviews](#interviews)
-- [Roadmaps](#roadmaps)
-- [Freelancing](#freelancing)
-- [Misc](#misc)
 
 ## Awesome lists
 - [Awesome](https://github.com/sindresorhus/awesome)

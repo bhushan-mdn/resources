@@ -1,3 +1,7 @@
+---
+layout: single
+title: ""
+---
 # Curlable web apps
 
 ## Weather (wttr.in)
