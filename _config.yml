@@ -1,3 +1,8 @@
+locale: "en-US"
+title: resources
+email: nagbhushan1999@gmail.com
+baseurl: ""
+
 # remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 title: resources
 description: A collection of open-source resources
