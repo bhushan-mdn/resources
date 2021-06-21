@@ -1,18 +1,17 @@
 # Resources
+
 A collection of open-source resources
 
-**Contents**
-- [Awesome lists](#awesome-lists)
-- [Books](#books)
-- [OSSU](#ossu)
-- [Sysadmin](#sysadmin)
-- [Project Ideas](#project-ideas)
-- [Interviews](#interviews)
-- [Roadmaps](#roadmaps)
-- [Freelancing](#freelancing)
-- [Misc](#misc)
+## Tracks
+1. [Computer Science | Software Engineering | Development](#cs)
+2. [Systems Engineering | Operations](#systems)
+3. [Data Analytics | Data Science | Machine Learning](#data)
+4. [Business | Management | Marketing](#business)
+5. [Electronics | Telecom](#electronics)
 
-## Awesome lists
+### CS
+
+Awesome lists
 - [Awesome](https://github.com/sindresorhus/awesome)
     - [Python](https://github.com/vinta/awesome-python)
     - [Go](https://github.com/avelino/awesome-go)
@@ -26,26 +25,16 @@ A collection of open-source resources
     - [First PR](https://github.com/MunGell/awesome-for-beginners)
     - [Rust](https://github.com/rust-unofficial/awesome-rust)
 
-## Books
+    Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-## OSSU
+OSSU
 - [Computer Science](https://github.com/ossu/computer-science)
-- [Data Science](https://github.com/ossu/data-science)
-- [Bioinformatics](https://github.com/ossu/bioinformatics)
 
-## Sysadmin
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com)
 
-## Project Ideas
-- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
-- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
-
-## Interviews
+Interviews
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Interviews](https://github.com/kdn251/interviews)
 - Algorithms
@@ -53,17 +42,43 @@ A collection of open-source resources
   - [Python](https://github.com/TheAlgorithms/Python)
   - [Java](https://github.com/TheAlgorithms/Java)
 
-## Roadmaps
-- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
-
-## Freelancing
-- [Freelancing for Developers](https://freelancingfordevs.com/)
-
-## Misc
-- [Public APIs](https://github.com/public-apis/public-apis)
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [Best websites to visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Awesome Open Source Projects](https://awesomeopensource.com/projects)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+
+Project Ideas
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
+
+Roadmaps
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+
+Freelancing
+- [Freelancing for Developers](https://freelancingfordevs.com/)
+
+Misc
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+
+### Systems
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+### Data
+- [Data Science](https://github.com/ossu/data-science)
+- [Bioinformatics](https://github.com/ossu/bioinformatics)
+- [Data Engineer Roadmap]()
+
+### Business
+
+
+### Electronics
+
+
+## General
+General stuff
