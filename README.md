@@ -28,10 +28,10 @@ Awesome lists
     Books
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-OSSU
-- [Computer Science](https://github.com/ossu/computer-science)
+Open Source Society University 
+- [Computer Science](https://github.com/ossu/computer-science) mortar_board Path to a free self-taught education in Computer Science! 
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com)
+[Teach Yourself Computer Science](https://teachyourselfcs.com)
 
 Interviews
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
