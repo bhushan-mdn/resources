@@ -43,8 +43,10 @@ A collection of open-source resources
 - [First PR](https://github.com/MunGell/awesome-for-beginners)
 
 #### Roadmaps
-- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - by @kamranahmedse. Check out their other roadmaps at roadmap.sh
 - [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [Rust Web Developer Roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
 
 #### Freelancing
 - [Freelancing for Developers](https://freelancingfordevs.com/)
