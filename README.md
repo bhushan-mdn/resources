@@ -1,6 +1,6 @@
 # Resources
 
-A collection of open-source resources
+A collection of open-source resources across domains.
 
 ## Tracks
 1. [Computer Science | Software Engineering | Development](#cs)
